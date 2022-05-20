@@ -43,10 +43,14 @@
     border-radius: 6px;
     cursor: pointer;
 }
+.add{
+    cursor: pointer;
+}
 .add-button i{
     display: flex;
     align-items: center;
     margin-right: 4px;
+    cursor: pointer;
 }
 
 .add-topbar{

@@ -100,7 +100,7 @@ const AddForm = () => {
             </div>
             <div className='form-add-button'>
             <div onClick={handleSubmit}>
-            <label>Add</label>
+            <label className='add'>Add</label>
                 <i className ="far fa-paper-plane"></i>
             </div>
             </div>

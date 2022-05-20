@@ -23,7 +23,7 @@ const Topbar = () => {
                 <Link to='add-expense'>
                 <div className='add-button'>
                     
-                    <label>Add</label>
+                    <label classname='add'>Add</label>
                 </div>
                 </Link>
             </div>:(
